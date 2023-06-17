@@ -11,7 +11,7 @@ for (n = 48; n <= 57; n++)
 putchar(n)
 putchar(',');
 putchar(' ');
-putchar('\n');
 }
+putchar('\n');
 return (0);
 }
