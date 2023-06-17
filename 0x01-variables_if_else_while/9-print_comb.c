@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
  * main - Entry point
+ * Description: 'print comb of numbers'
  * Return: Always return 0 (success)
  */
 int main(void)
